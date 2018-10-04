@@ -1,8 +1,5 @@
 # Image-Integrity-Check
-Checks the integrity of an uploaded image
-Good Evening Sir,
-
-Please find attached the application as discussed. Follow the guidelines provided to be able to run the application successfully. 
+Checks the integrity of an uploaded image. 
 
 REQUIREMENT:
 
@@ -11,7 +8,6 @@ REQUIREMENT:
 3. Enable these two dependencies in PHP.INI file located at xammp config 
     (extension=php_mbstring.dll, 
        extension=php_exif.dll )
-
 
 GUIDELINES:
 
@@ -23,8 +19,3 @@ GUIDELINES:
 6. Copy the unzipped application folder, and paste it inside the htdocs folder location at Xammp -> Htdocs.
 7. Make sure the database uploads successfully. 
 8. After that you can now login and test the application using these login details below.
-
-LOGIN DETAILS: 
-
-Email: tayeolayemi@gmail.com
-Password: admin
